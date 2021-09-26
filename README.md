@@ -1,5 +1,5 @@
 # Fluthrift.Id
 
-<img src="https://github.com/harysusilo50/Fluthrift.Id/blob/main/Free%20Mug%20%26%20Laptop%20Website%20Mockup%20PSD.png" width="500px">
+<img src="https://github.com/harysusilo50/Fluthrift.Id/blob/main/Free%20Mug%20%26%20Laptop%20Website%20Mockup%20PSD.png" width="750px">
 
 [link to figma](https://www.figma.com/proto/wycRm0RLsV5mjxccfWatZ5/Fluthrift.id?node-id=7%3A269&scaling=min-zoom&page-id=0%3A1)
